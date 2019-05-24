@@ -8,13 +8,13 @@ print("x:",x)
 
 print("...................................................")
 
-x="ktega"
+x="Hello"
 def abc():
-    print("kaabc")
+    print("India")
     def jkl():
         print(x)
         def xyz():
-           print("sabka",x)
+           print("Namste",x)
         xyz()
     jkl()
 abc()     
@@ -27,7 +27,7 @@ def zzz():
     print(x)
 
     def jjj():
-        print("jana",x)
+        print("se hun",x)
     jjj()
 zzz()
 
