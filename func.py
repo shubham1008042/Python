@@ -1,3 +1,4 @@
+# Functions in python
 def abc(a,b,c):
     print(a+b+c)
 
