@@ -1,3 +1,4 @@
+#To find reverse of a string 
 def rev(s):
     str=' '
     for h in str:
