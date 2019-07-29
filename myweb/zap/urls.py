@@ -3,8 +3,6 @@ from django.conf.urls import url,include
 # from django.contrib.auth.views import LoginView
 from . import views
 
-# SET THE NAMESPACE!
-
 
 urlpatterns = [
     url(r'^$', views.index, name='index'),
