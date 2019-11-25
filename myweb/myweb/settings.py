@@ -134,6 +134,6 @@ STATIC_URL = '/static/'
 
 EMAIL_USE_TLS = True
 EMAIL_HOST = 'smtp.gmail.com'
-EMAIL_HOST_USER = 'shubhamsharma@zapbuild.com'
-EMAIL_HOST_PASSWORD = 'Welcome@zapbuild'
+EMAIL_HOST_USER = 'shubh*****@gmail.com'
+EMAIL_HOST_PASSWORD = '********'
 EMAIL_PORT = 587
